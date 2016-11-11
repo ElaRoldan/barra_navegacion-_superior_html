@@ -1,0 +1,71 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+ h2 {
+  color: black;
+  text-align: left;
+  font-family: "Arial", Arial, sans;
+  font-weight: bold;
+
+}
+
+ h3 {
+  color: black;
+  text-align: left;
+  font-family: "Arial", Arial, sans;
+  font-weight: bold;
+
+}
+
+
+body {
+  color: black;
+  text-align: left;
+  font-family: "Arial", Arial, sans;
+
+}
+
+.footer {
+  width: 768px;
+  color: black;
+  text-align: left;
+  font-family: "Arial", Arial, sans;
+  font-weight: bold;
+}
+
+li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  background-color: #909090;
+  text-align: center; 
+  
+}
+
+li a {
+    color: white;
+    text-align: center;
+    padding: 0px 60px 0px 60px;
+    text-decoration: none;
+}
+
+/*no s como hacer que la caja gris se vea exctamente igual y que se pegue al logo negro de codeea 
+tampooc encuentro como dejar el espacio de 20 px entre el footing y el text y el final de la pagina 
+e*/
+
+
+
+
+
